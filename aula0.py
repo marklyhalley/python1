@@ -6,4 +6,4 @@ print ("hello people")
 COM MAIS 
 DE UMA LINHA
 """
-# idealmente não pode ter dois comandos na mesma linha , caso necessário, utilize ;
+# idealmente não pode ter dois comandos na mesma linha , caso necessário, utilize ; para separar
