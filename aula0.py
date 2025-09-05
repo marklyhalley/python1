@@ -20,3 +20,6 @@ print (msg, idade)
 x= 2
 y= 4
 print ('O Valor de x é' , x ,"o valor de y é",y)
+#pyhon possibilita atribuir duas variaveis ao mesmo tempo
+a, b = 4,6
+print (a+b)
