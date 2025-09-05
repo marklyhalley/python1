@@ -6,7 +6,7 @@ print ('bye \n bye')
 print ("hello people")
 """ COMENTARIO 
 COM MAIS 
-DE UMA LINHA
+DE UMA LINHA (e também fazer code com mais de uma linha)
 """
 # idealmente não pode ter dois comandos na mesma linha , caso necessário, utilize ; para separar
 print (10)
