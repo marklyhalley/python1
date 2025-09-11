@@ -8,3 +8,4 @@ a=b
 print(a)
 b=c
 print(b)
+print(a+b)
