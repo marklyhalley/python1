@@ -8,3 +8,13 @@ a=b
 print("o valor de A no final se torna", a)
 b=c
 print("o valor de B no final se torna", b)
+#Metodo 4 variaveis
+
+a= 10
+b= 20
+print(a, b)
+c=a
+d=b
+b=c
+a=d
+print(a,b)
